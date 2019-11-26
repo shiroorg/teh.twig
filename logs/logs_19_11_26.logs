@@ -1,0 +1,5 @@
+ 
+ Sequence\SequenceClass::getMaxNumbers [87]
+ Sequence\SequenceClass::getMaxNumbers [87,43]
+ Sequence\SequenceClass::setNumbers {"12":12,"11":11,"2":10,"10":9,"8":8,"7":7,"6":6,"4":5,"3":4,"1":2,"0":1,"9":0}
+ Sequence\SequenceClass::getMaxNumbers [12,11,10,9]
